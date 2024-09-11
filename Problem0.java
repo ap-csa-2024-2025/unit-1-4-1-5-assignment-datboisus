@@ -4,7 +4,7 @@ public class Problem0
   {
     // insert code here
     double var1 = 2;
-    int var2 = (int)2.0;
+    int var2 = 2.0;
     
     System.out.println(var1);
     System.out.println(var2);
